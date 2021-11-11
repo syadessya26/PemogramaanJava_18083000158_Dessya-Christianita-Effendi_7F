@@ -1,0 +1,19 @@
+cd D:\SEMESTER 7!\Pemograman Java\UTS\KalkulatorBMI; "JAVA_HOME=C:\\Program Files\\Java\\jdk1.8.0_221" cmd /c "\"C:\\Program Files\\NetBeans-12.5\\netbeans\\java\\maven\\bin\\mvn.cmd\" -Dexec.vmArgs= \"-Dexec.args=${exec.vmArgs} -classpath %classpath ${exec.mainClass} ${exec.appArgs}\" -Dexec.appArgs= -Dexec.mainClass=Calculator \"-Dexec.executable=C:\\Program Files\\Java\\jdk1.8.0_221\\bin\\java.exe\" \"-Dmaven.ext.class.path=C:\\Program Files\\NetBeans-12.5\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar\" -Dfile.encoding=UTF-8 org.codehaus.mojo:exec-maven-plugin:3.0.0:exec"
+Running NetBeans Compile On Save execution. Phase execution is skipped and output directories of dependency projects (with Compile on Save turned on) will be used instead of their jar artifacts.
+Scanning for projects...
+
+-------------------------< UTS:KalkulatorBMI >--------------------------
+Building KalkulatorBMI 1.0-SNAPSHOT
+--------------------------------[ jar ]---------------------------------
+
+--- exec-maven-plugin:3.0.0:exec (default-cli) @ KalkulatorBMI ---
+23.875114784205696
+11.019283746556475
+136.05442176870744
+21.088393197278908
+------------------------------------------------------------------------
+BUILD SUCCESS
+------------------------------------------------------------------------
+Total time:  12:21 min
+Finished at: 2021-11-10T18:49:30+07:00
+------------------------------------------------------------------------
